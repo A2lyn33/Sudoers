@@ -62,13 +62,16 @@ Ensuite, testez une commande avec `sudo`, par exemple :
 ```bash
 sudo apt update
 ```
-
-> Si tout fonctionne correctement, l'utilisateur a désormais les privilèges sudo !
-
+---
+> Si tout fonctionne correctement, l'utilisateur a désormais les privilèges sudo ! 🤟
+---
+---
 ---
 
-> Si tout ne fonctionne pas correctement :
-
+# 🆘 Si tout ne fonctionne pas correctement : 🆘
+---
+---
+---
 Si après toutes ces étapes `usermod` ne fonctionne toujours pas sur Debian 12, essayons un diagnostic plus approfondi.
 
 ---
